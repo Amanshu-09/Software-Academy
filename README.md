@@ -11,6 +11,5 @@ It has some really helpful features :-
 1) You should have java installed in your computer.
 2) You will need a Java IDE to run it. Or you can 
    Create .exe file from source code.
-3) You will need db browser to use database because
-   I have used db browser for database connection and 
-   It provides database file with .db extension.
+3) You will need MySQL to use database because
+   I have used db MySQL for database connection.
